@@ -2,6 +2,9 @@ package cn.cong.amusevideo;
 
 import cn.cong.utils.app.BaseActivity;
 
+/**
+ * 注释
+ */
 public class ShotActivity extends BaseActivity {
     @Override
     protected int getLayoutId() {
