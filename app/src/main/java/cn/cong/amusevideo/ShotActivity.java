@@ -32,4 +32,7 @@ public class ShotActivity extends BaseActivity {
     public void test1() {
 
     }
+    public void test2() {
+
+    }
 }
