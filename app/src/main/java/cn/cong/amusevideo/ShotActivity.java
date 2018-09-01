@@ -25,4 +25,11 @@ public class ShotActivity extends BaseActivity {
     protected void initListener() {
 
     }
+
+    public void test() {
+
+    }
+    public void test1() {
+
+    }
 }
